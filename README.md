@@ -4,11 +4,7 @@
 
 ## Description
 
-This repository does not have a provided description.
-
-## Key Features
-
-- No specific features provided.
+This repository contains labs for java subjct KPI 2025
 
 ## Installation
 
