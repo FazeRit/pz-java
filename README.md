@@ -24,18 +24,6 @@ To use this project, follow these steps:
    cd pz-java
    ```
 
-## API Documentation
-
-No API documentation provided.
-
-## Dependencies
-
-The project has the following dependencies:
-
-```json
-{}
-```
-
 ## Contributing
 
 If you would like to contribute to the project, please follow these guidelines:
