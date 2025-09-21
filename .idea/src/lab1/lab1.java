@@ -1,4 +1,4 @@
-package javalab1;
+package lab1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
